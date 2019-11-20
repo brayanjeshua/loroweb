@@ -1,0 +1,119 @@
+{
+  "tiendas": [
+
+    {
+      "id": "1",
+      "nombre": "CocoWake",
+      "email": "name@cocowake.com",
+      "logoURL": "https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-9/23755435_404190380010343_8918839855767505382_n.jpg?_nc_cat=106&_nc_oc=AQl_uXY8-KA0j_Nk6Z7doQRckRL2tf4AkRosRgHhb1uPlQi1ALeHjwQbxIVOFpBuY5k&_nc_ht=scontent.fbog2-1.fna&oh=3bbf4b68a87c4fafc3212e16062869b2&oe=5E53FDD3",
+      "sucursales": [
+
+        {
+          "idTienda": "1",
+          "direccion": "Cocowake Oficina Calle 66 #86 - 44, Bogota Dc",
+          "productos": [
+            {
+              "idTienda": "1",
+              "nombre": "Dulcito de Coco",
+              "precio": 23000,
+              "imagen": "https://www.nacion.com/resizer/ZGH00kBnNLFsh0e5jVc5dZt0fIQ=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/YD7LAY3IXZFMDGGPMSKAJPVHMQ.jpg",
+              "cantidad": 9,
+              "categoria": "coco"
+            },
+            {
+              "idTienda": "1",
+              "nombre": "Aceite de Coco",
+              "precio": 15000,
+              "imagen": "https://scontent-lht6-1.cdninstagram.com/vp/71c13682ff15039612d91769be2949d6/5DE808B8/t51.2885-15/e35/66408857_457671071479966_4942214329872744895_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MjA5NTk5MTI4NDkxMjI0Njk1Mw%3D%3D.2",
+              "cantidad": 15,
+              "categoria": "coco"
+            }
+          ]
+        },
+        {
+          "idTienda": "1",
+          "direccion": "Cocowake Oficina Carrera 100 #123 - 44, Bogota Dc",
+          "productos": [
+            {
+              "idTienda": "1",
+              "nombre": "Avena con Coco",
+              "precio": 23000,
+              "imagen": "https://www.nacion.com/resizer/ZGH00kBnNLFsh0e5jVc5dZt0fIQ=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/YD7LAY3IXZFMDGGPMSKAJPVHMQ.jpg",
+              "cantidad": 9,
+              "categoria": "coco"
+            }
+          ]
+        }
+
+      ]
+
+    },
+    {
+      "id": "2",
+      "nombre": "Tikiloops",
+      "email": "hello@tikiloops.com",
+      "logoURL": "https://tikiloops.com/wp-content/uploads/TIKI-LOGO-02.png",
+      "sucursales": [
+
+        {
+          "idTienda": "2",
+          "direccion": "Miami Florida",
+          "productos": [
+            {
+              "idTienda": "2",
+              "nombre": "Pineapple in Slices",
+              "precio": 5,
+              "imagen": "https://www.nacion.com/resizer/ZGH00kBnNLFsh0e5jVc5dZt0fIQ=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/YD7LAY3IXZFMDGGPMSKAJPVHMQ.jpg",
+              "cantidad": 1000,
+              "categoria": "frutas"
+            },
+            {
+              "idTienda": "2",
+              "nombre": "Pineapple in Chunks",
+              "precio": 47,
+              "imagen": "https://scontent-lht6-1.cdninstagram.com/vp/71c13682ff15039612d91769be2949d6/5DE808B8/t51.2885-15/e35/66408857_457671071479966_4942214329872744895_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&ig_cache_key=MjA5NTk5MTI4NDkxMjI0Njk1Mw%3D%3D.2",
+              "cantidad": 1,
+              "categoria": "pineapple"
+            }
+          ]
+        }
+
+      ]
+
+    },
+    {
+      "id": "3",
+      "nombre": "Apple Computers",
+      "email": "admin@apple.com",
+      "logoURL": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201809210816",
+      "sucursales": [
+
+        {
+          "idTienda": "3",
+          "direccion": "New York Florida",
+          "productos": [
+            {
+              "idTienda": "3",
+              "nombre": "Computadora de mesa",
+              "precio": 5,
+              "imagen": "https://c1.neweggimages.com/ProductImage/83-104-579-S01.jpg",
+              "cantidad": 1000,
+              "categoria": "frutas"
+            },
+            {
+              "idTienda": "3",
+              "nombre": "iPhone",
+              "precio": 47,
+              "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-gold-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566953859132",
+              "cantidad": 1,
+              "categoria": "pineapple"
+            }
+          ]
+        }
+
+      ]
+
+    }
+
+  ]
+}
